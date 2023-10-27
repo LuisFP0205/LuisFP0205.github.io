@@ -26,7 +26,7 @@
   <main class="introducao">
     <img src="./img/Luis3.png" alt="LuisPagnussat" width="360" height="520">
     <div>
-      <h1> Estutante<br> De<br> Ciências Da Computação</h1>
+      <h1> Estudante<br> De<br> Ciências Da Computação</h1>
       <p>Rio Grande Do Sul</p>
     </div>
   </main>
