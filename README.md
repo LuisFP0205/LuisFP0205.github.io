@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Luis Felipe Pagnussat - Estutante de Ciencias da Computação</title>
-  <meta name="description" content="Estutante de Ciencias da Compuatação">
+  <meta name="description" content="Estudante de Ciências da Compuatação">
   <link rel="stylesheet" href="./css/style.min.css">
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
 
