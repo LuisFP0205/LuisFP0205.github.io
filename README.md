@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Luis Felipe Pagnussat - Estutante de Ciencias da Computação</title>
+  <title>Luis Felipe Pagnussat - Estudante de Ciências da Computação</title>
   <meta name="description" content="Estudante de Ciências da Compuatação">
   <link rel="stylesheet" href="./css/style.min.css">
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
@@ -26,7 +26,7 @@
   <main class="introducao">
     <img src="./img/Luis3.png" alt="LuisPagnussat" width="360" height="520">
     <div>
-      <h1> Estutante<br> De<br> Ciencias Da Computação</h1>
+      <h1> Estutante<br> De<br> Ciências Da Computação</h1>
       <p>Rio Grande Do Sul</p>
     </div>
   </main>
