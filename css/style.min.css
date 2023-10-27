@@ -17,6 +17,11 @@ ul {
     list-style: none
 }
 
+a:visited {
+  color: white;
+}
+
+
 img {
     max-width: 100%;
     height: auto;
